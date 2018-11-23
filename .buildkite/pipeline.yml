@@ -1,0 +1,8 @@
+steps:
+  - command: "mvn clean"
+    label: "maven"
+
+  - block: "start deploy"
+
+  - command: "echo -e deployed! :rocket"
+    label: "deploy"
