@@ -4,5 +4,5 @@ steps:
 
   - block: "start deploy"
 
-  - command: "echo -e deployed! :rocket"
+  - command: "echo deployed!"
     label: "deploy"
