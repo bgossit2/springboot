@@ -13,5 +13,5 @@ steps:
   - command: "echo -e test2 :rocket:"
     label: "deploy3"
 
-  - command: "testing.sh"
+  - command: "testing.bat"
     label: "deploy4"
