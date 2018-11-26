@@ -6,3 +6,9 @@ steps:
 
   - command: "echo deployed!"
     label: "deploy"
+
+  - command: "echo test :rocket:"
+    label: "deploy"
+
+  - command: "echo -e test2 :rocket:"
+    label: "deploy"
