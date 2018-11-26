@@ -8,7 +8,10 @@ steps:
     label: "deploy"
 
   - command: "echo test :rocket:"
-    label: "deploy"
+    label: "deploy2"
 
   - command: "echo -e test2 :rocket:"
-    label: "deploy"
+    label: "deploy3"
+
+  - command: "testing.sh"
+    label: "deploy4"
