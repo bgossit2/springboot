@@ -6,12 +6,3 @@ steps:
 
   - command: "echo deployed!"
     label: "deploy"
-
-  - command: "echo test :rocket:"
-    label: "deploy2"
-
-  - command: "echo -e test2 :rocket:"
-    label: "deploy3"
-
-  - command: "testing.bat"
-    label: "deploy4"
